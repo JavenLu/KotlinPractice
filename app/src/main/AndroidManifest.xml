@@ -11,6 +11,9 @@
         android:theme="@style/AppTheme">
         <activity android:name=".StringExample"></activity>
         <activity android:name=".NullSafe">
+
+        </activity>
+        <activity android:name=".TypeCast">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
